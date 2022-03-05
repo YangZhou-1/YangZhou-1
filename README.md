@@ -8,6 +8,8 @@ change 1:
 111
 222
 333
+git commit for note is important while needing hand on input
+
 >>>>>>> db71b995156e85dcd0f590851a9f1327be0a1e29
 Here are some ideas to get you started:
 
