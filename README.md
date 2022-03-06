@@ -1,5 +1,8 @@
 ### Hi Yang 👋
+1. Turing Award known as the Noble Prize in the computer industry.
+2. Alan kay  won the 2003 Turing Award for object-oriented programming.
 
+🌱 I’m currently learning ...
 <!--
 **YangZhou-1/YangZhou-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <<<<<<< HEAD
