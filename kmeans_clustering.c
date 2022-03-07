@@ -8,6 +8,7 @@
 #define MAXCHAR 25
 #define DEBUG   1
 #define MAXVALUE 1.0E10
+
 int whichCentroid(double points_x, double points_y, double* centroids_x, double* centroids_y, int num_centroids);
 int whichCentroid(double points_x, double points_y, double* centroids_x, double* centroids_y, int num_centroid) {
         double euclideanDistance = MAXVALUE;
@@ -22,6 +23,8 @@ int whichCentroid(double points_x, double points_y, double* centroids_x, double*
         }
         return index;
     }
+
+
 int main(int argc, char* argv[]) {
     // Catch console errors
     if (argc != 8) {
@@ -116,7 +119,7 @@ int main(int argc, char* argv[]) {
     {
         
       #pragma omp for
-        //initial variables
+        //initial variables change
         for (int i = 0; i < num_centroids; i++)
         {
             centroids_count[i] = 0;
@@ -181,7 +184,7 @@ int main(int argc, char* argv[]) {
 
 
     // print time //
-    double time_passed = end - start;
+    double time_passed = end - start -1;
     fprintf(timeFile, "%f", time_passed);
 //	printf("total time consumed : %f \n", time_passed);
     // print centroids //
