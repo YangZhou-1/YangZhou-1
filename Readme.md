@@ -5,6 +5,7 @@ Alan Kay about Software Engineering
 
 Turing Award known as the Noble Prize in the computer industry.
 
+
 Alan kay won the 2003 Turing Award for object-oriented programming。From this two speeches, I know he is an old man. Some pictures are same in two speeches over 9 years.
 
 I agree with “You should never build your own tools, it’s a black hole. Speed up your ability to produce the thing that you want to do it turns out.” Computer science is an unprecedented tool. It is a tool of the human mind. It will not only make the human more powerful, and more likely that the human mind will become the tool of this tool.
