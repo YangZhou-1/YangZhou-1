@@ -4,7 +4,6 @@ Alan Kay about Software Engineering
 
 Turing Award known as the Noble Prize in the computer industry.
 
-
 Alan kay won the 2003 Turing Award for object-oriented programming。
 From this two speeches, I know he is an old man. Some pictures are same in two speeches over 9 years.
 
