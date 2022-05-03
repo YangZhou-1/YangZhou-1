@@ -2,7 +2,6 @@
 
 Alan Kay about Software Engineering
 
-
 Turing Award known as the Noble Prize in the computer industry.
 
 
